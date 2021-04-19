@@ -54,7 +54,7 @@ EXPLICIT Binding is whenever we use JS's call or apply method, "this" is explici
 
 super() is used to pass any new attributes back up the the constructor of the parent object
 
-You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
+You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade!!
 
 ## Instructions
 
